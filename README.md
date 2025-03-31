@@ -10,7 +10,7 @@ Virtual Tour in Unity that allows seamless transitions between day and night. I 
 
 ## Features
 
-  * -Swaps lightmaps and lightprobes in scene loading all the info from ScriptableObjects.
-  * -Allows walking inside the building wioth collisions.
-  * -Changes materials for some furniture and applies lightmaps to them.
-  * -Uses  HDR skyboxes and applies levels of exposure for changing the volume component.
+  * Swaps lightmaps and lightprobes in scene loading all the info from ScriptableObjects.
+  * Allows walking inside the building wioth collisions.
+  * Changes materials for some furniture and applies lightmaps to them.
+  * Uses  HDR skyboxes and applies levels of exposure for changing the volume component.
